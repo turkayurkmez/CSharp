@@ -1,0 +1,9 @@
+C:\Users\turka\source\repos\DZOnline\CSharpGiris\hazirMetotlar\hazirMetotlar\bin\Debug\hazirMetotlar.exe.config
+C:\Users\turka\source\repos\DZOnline\CSharpGiris\hazirMetotlar\hazirMetotlar\bin\Debug\hazirMetotlar.exe
+C:\Users\turka\source\repos\DZOnline\CSharpGiris\hazirMetotlar\hazirMetotlar\bin\Debug\hazirMetotlar.pdb
+C:\Users\turka\source\repos\DZOnline\CSharpGiris\hazirMetotlar\hazirMetotlar\obj\Debug\hazirMetotlar.csprojAssemblyReference.cache
+C:\Users\turka\source\repos\DZOnline\CSharpGiris\hazirMetotlar\hazirMetotlar\obj\Debug\hazirMetotlar.Form1.resources
+C:\Users\turka\source\repos\DZOnline\CSharpGiris\hazirMetotlar\hazirMetotlar\obj\Debug\hazirMetotlar.Properties.Resources.resources
+C:\Users\turka\source\repos\DZOnline\CSharpGiris\hazirMetotlar\hazirMetotlar\obj\Debug\hazirMetotlar.csproj.GenerateResource.cache
+C:\Users\turka\source\repos\DZOnline\CSharpGiris\hazirMetotlar\hazirMetotlar\obj\Debug\hazirMetotlar.exe
+C:\Users\turka\source\repos\DZOnline\CSharpGiris\hazirMetotlar\hazirMetotlar\obj\Debug\hazirMetotlar.pdb
