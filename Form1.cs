@@ -16,7 +16,7 @@ namespace hazirMetotlar
         {
             InitializeComponent();
         }
-        string kelime = "bilgisayar";
+        string kelime = "kelime";
         private void Form1_Load(object sender, EventArgs e)
         {
            
